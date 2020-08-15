@@ -1,14 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Project to show the activity of the person using react timeline and react modal library
 ###  Demo
-https://tender-sinoussi-9c6612.netlify.app
+fullthrotlle-assignment.netlify.app
 
-### steps
-First Page show the name of Person and his id ,time zone<br />
-By defualt the time zone in IST,if user in different time zone it will convert into IST and show accordingly<br />
-on clicking on the row it will a modal with month wise period of activity<br />
-on clicking on the month(tab) it will show date wise activity<br />
-on clicking on date tab it will show time wise activity
 ## Available Scripts
 
 In the project directory, you can run:
